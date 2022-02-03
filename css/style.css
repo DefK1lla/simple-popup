@@ -211,7 +211,6 @@ body {
     background-position: center;
 
     position: absolute;
-
     z-index: 1;
 }
 
@@ -228,7 +227,7 @@ body {
     }
 
     .popup__img::after {
-        right: -45px;
+        right: -40px;
         bottom: 60px;
     }
 }
